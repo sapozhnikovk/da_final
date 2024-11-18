@@ -1,0 +1,1469 @@
+date,city,temperature,precipitation
+2023-08-15,Moscow,20.1,Rain
+2023-08-16,Moscow,20.9,Rain
+2023-08-17,Moscow,15.7,Rain
+2023-08-18,Moscow,22.5,Rain
+2023-08-19,Moscow,19.8,Rain
+2023-08-20,Moscow,21.2,Rain
+2023-08-21,Moscow,18.6,None
+2023-08-22,Moscow,21.9,Rain
+2023-08-23,Moscow,22.7,None
+2023-08-24,Moscow,20.3,None
+2023-08-25,Moscow,22.5,Rain
+2023-08-26,Moscow,15.5,Snow
+2023-08-27,Moscow,21.1,Rain
+2023-08-28,Moscow,22.7,Rain
+2023-08-29,Moscow,18.1,Rain
+2023-08-30,Moscow,23.8,None
+2023-08-31,Moscow,24.4,Rain
+2023-09-01,Moscow,16.9,None
+2023-09-02,Moscow,12.8,Snow
+2023-09-03,Moscow,17.5,None
+2023-09-04,Moscow,13.6,None
+2023-09-05,Moscow,10.3,None
+2023-09-06,Moscow,17.6,None
+2023-09-07,Moscow,18.4,None
+2023-09-08,Moscow,13.7,None
+2023-09-09,Moscow,14.5,None
+2023-09-10,Moscow,19.5,None
+2023-09-11,Moscow,19.2,None
+2023-09-12,Moscow,19.9,None
+2023-09-13,Moscow,19.3,None
+2023-09-14,Moscow,17.5,Snow
+2023-09-15,Moscow,11.4,None
+2023-09-16,Moscow,14.2,Snow
+2023-09-17,Moscow,15.4,None
+2023-09-18,Moscow,11.4,None
+2023-09-19,Moscow,18.1,None
+2023-09-20,Moscow,16.3,Snow
+2023-09-21,Moscow,12.1,None
+2023-09-22,Moscow,10.8,None
+2023-09-23,Moscow,11.6,Rain
+2023-09-24,Moscow,13.0,None
+2023-09-25,Moscow,16.0,None
+2023-09-26,Moscow,17.4,None
+2023-09-27,Moscow,16.6,None
+2023-09-28,Moscow,16.9,None
+2023-09-29,Moscow,14.3,None
+2023-09-30,Moscow,17.5,None
+2023-10-01,Moscow,11.2,Rain
+2023-10-02,Moscow,6.4,None
+2023-10-03,Moscow,5.6,None
+2023-10-04,Moscow,10.0,None
+2023-10-05,Moscow,9.4,None
+2023-10-06,Moscow,7.6,None
+2023-10-07,Moscow,10.0,None
+2023-10-08,Moscow,10.0,None
+2023-10-09,Moscow,7.3,None
+2023-10-10,Moscow,5.2,None
+2023-10-11,Moscow,10.6,Rain
+2023-10-12,Moscow,8.6,None
+2023-10-13,Moscow,5.2,Rain
+2023-10-14,Moscow,5.1,Snow
+2023-10-15,Moscow,8.4,None
+2023-10-16,Moscow,11.5,None
+2023-10-17,Moscow,9.1,None
+2023-10-18,Moscow,6.5,None
+2023-10-19,Moscow,9.6,Rain
+2023-10-20,Moscow,5.0,Snow
+2023-10-21,Moscow,6.2,None
+2023-10-22,Moscow,6.8,None
+2023-10-23,Moscow,5.9,Snow
+2023-10-24,Moscow,7.2,None
+2023-10-25,Moscow,5.7,Rain
+2023-10-26,Moscow,11.0,None
+2023-10-27,Moscow,5.1,None
+2023-10-28,Moscow,5.4,None
+2023-10-29,Moscow,8.0,None
+2023-10-30,Moscow,8.6,None
+2023-10-31,Moscow,11.6,Snow
+2023-11-01,Moscow,1.5,None
+2023-11-02,Moscow,0.0,None
+2023-11-03,Moscow,2.8,None
+2023-11-04,Moscow,3.9,Snow
+2023-11-05,Moscow,-0.3,None
+2023-11-06,Moscow,-2.2,None
+2023-11-07,Moscow,0.3,None
+2023-11-08,Moscow,4.0,None
+2023-11-09,Moscow,0.6,None
+2023-11-10,Moscow,2.5,None
+2023-11-11,Moscow,4.0,None
+2023-11-12,Moscow,0.5,None
+2023-11-13,Moscow,0.7,Rain
+2023-11-14,Moscow,1.9,Rain
+2023-11-15,Moscow,1.0,None
+2023-11-16,Moscow,-2.9,None
+2023-11-17,Moscow,2.6,Rain
+2023-11-18,Moscow,-0.6,None
+2023-11-19,Moscow,0.4,None
+2023-11-20,Moscow,-1.1,None
+2023-11-21,Moscow,-1.4,None
+2023-11-22,Moscow,-1.4,None
+2023-11-23,Moscow,2.0,None
+2023-11-24,Moscow,4.8,None
+2023-11-25,Moscow,-0.2,None
+2023-11-26,Moscow,-2.9,Rain
+2023-11-27,Moscow,-2.7,Snow
+2023-11-28,Moscow,4.1,None
+2023-11-29,Moscow,1.3,None
+2023-11-30,Moscow,0.1,None
+2023-12-01,Moscow,-7.7,Snow
+2023-12-02,Moscow,-4.7,Snow
+2023-12-03,Moscow,-3.1,Snow
+2023-12-04,Moscow,-6.1,Snow
+2023-12-05,Moscow,-5.0,Snow
+2023-12-06,Moscow,-5.1,Rain
+2023-12-07,Moscow,-5.1,None
+2023-12-08,Moscow,-4.5,Snow
+2023-12-09,Moscow,-3.2,None
+2023-12-10,Moscow,-7.2,Snow
+2023-12-11,Moscow,-5.0,Snow
+2023-12-12,Moscow,-4.8,Snow
+2023-12-13,Moscow,-6.5,Snow
+2023-12-14,Moscow,-7.3,None
+2023-12-15,Moscow,-3.7,Snow
+2023-12-16,Moscow,-2.4,None
+2023-12-17,Moscow,-2.8,Snow
+2023-12-18,Moscow,-3.1,Rain
+2023-12-19,Moscow,-6.0,Snow
+2023-12-20,Moscow,-4.9,Snow
+2023-12-21,Moscow,-5.1,None
+2023-12-22,Moscow,-2.6,Snow
+2023-12-23,Moscow,-7.2,None
+2023-12-24,Moscow,-2.4,None
+2023-12-25,Moscow,-7.6,Snow
+2023-12-26,Moscow,-2.6,None
+2023-12-27,Moscow,-3.0,Snow
+2023-12-28,Moscow,-2.7,Snow
+2023-12-29,Moscow,-5.2,Snow
+2023-12-30,Moscow,-6.4,Snow
+2023-12-31,Moscow,-2.6,Snow
+2024-01-01,Moscow,-9.2,Snow
+2024-01-02,Moscow,-9.2,Snow
+2024-01-03,Moscow,-6.3,Snow
+2024-01-04,Moscow,-8.9,Snow
+2024-01-05,Moscow,-7.8,Rain
+2024-01-06,Moscow,-7.7,Rain
+2024-01-07,Moscow,-6.7,Snow
+2024-01-08,Moscow,-8.4,Snow
+2024-01-09,Moscow,-9.0,None
+2024-01-10,Moscow,-9.5,Rain
+2024-01-11,Moscow,-9.5,Snow
+2024-01-12,Moscow,-8.2,Snow
+2024-01-13,Moscow,-6.5,None
+2024-01-14,Moscow,-7.8,Snow
+2024-01-15,Moscow,-6.6,Snow
+2024-01-16,Moscow,-6.9,None
+2024-01-17,Moscow,-7.5,Rain
+2024-01-18,Moscow,-7.9,Snow
+2024-01-19,Moscow,-5.9,None
+2024-01-20,Moscow,-6.0,None
+2024-01-21,Moscow,-8.8,None
+2024-01-22,Moscow,-9.5,None
+2024-01-23,Moscow,-8.3,Snow
+2024-01-24,Moscow,-8.7,None
+2024-01-25,Moscow,-7.7,None
+2024-01-26,Moscow,-9.8,Snow
+2024-01-27,Moscow,-9.4,None
+2024-01-28,Moscow,-6.5,Snow
+2024-01-29,Moscow,-8.3,Snow
+2024-01-30,Moscow,-7.2,Snow
+2024-01-31,Moscow,-5.3,None
+2024-02-01,Moscow,-9.9,Snow
+2024-02-02,Moscow,-6.9,Snow
+2024-02-03,Moscow,-7.1,Rain
+2024-02-04,Moscow,-4.2,None
+2024-02-05,Moscow,-5.9,Snow
+2024-02-06,Moscow,-7.8,Snow
+2024-02-07,Moscow,-9.3,None
+2024-02-08,Moscow,-3.3,Snow
+2024-02-09,Moscow,-3.8,Snow
+2024-02-10,Moscow,-5.9,Snow
+2024-02-11,Moscow,-3.7,Snow
+2024-02-12,Moscow,-6.9,None
+2024-02-13,Moscow,-3.1,Snow
+2024-02-14,Moscow,-4.4,Snow
+2024-02-15,Moscow,-6.5,Rain
+2024-02-16,Moscow,-6.5,None
+2024-02-17,Moscow,-5.4,Snow
+2024-02-18,Moscow,-4.9,Snow
+2024-02-19,Moscow,-6.3,None
+2024-02-20,Moscow,-9.2,Snow
+2024-02-21,Moscow,-10.0,None
+2024-02-22,Moscow,-3.9,None
+2024-02-23,Moscow,-5.7,Snow
+2024-02-24,Moscow,-5.2,Snow
+2024-02-25,Moscow,-3.3,Snow
+2024-02-26,Moscow,-9.2,Rain
+2024-02-27,Moscow,-7.4,Snow
+2024-02-28,Moscow,-7.9,Snow
+2024-02-29,Moscow,-8.2,None
+2024-03-01,Moscow,-4.0,Snow
+2024-03-02,Moscow,3.0,None
+2024-03-03,Moscow,2.1,None
+2024-03-04,Moscow,-1.0,Rain
+2024-03-05,Moscow,4.6,None
+2024-03-06,Moscow,-0.8,None
+2024-03-07,Moscow,-1.2,None
+2024-03-08,Moscow,-4.5,None
+2024-03-09,Moscow,-0.6,None
+2024-03-10,Moscow,3.2,Rain
+2024-03-11,Moscow,-0.1,None
+2024-03-12,Moscow,1.4,None
+2024-03-13,Moscow,-2.6,Rain
+2024-03-14,Moscow,-4.6,None
+2024-03-15,Moscow,-4.9,None
+2024-03-16,Moscow,-4.3,Snow
+2024-03-17,Moscow,-2.1,None
+2024-03-18,Moscow,-2.6,Snow
+2024-03-19,Moscow,0.2,None
+2024-03-20,Moscow,3.7,None
+2024-03-21,Moscow,-1.6,None
+2024-03-22,Moscow,-1.2,None
+2024-03-23,Moscow,1.8,None
+2024-03-24,Moscow,0.8,None
+2024-03-25,Moscow,-3.1,None
+2024-03-26,Moscow,4.4,None
+2024-03-27,Moscow,1.6,None
+2024-03-28,Moscow,-3.7,None
+2024-03-29,Moscow,-1.9,None
+2024-03-30,Moscow,-3.3,Rain
+2024-03-31,Moscow,-4.8,None
+2024-04-01,Moscow,5.8,None
+2024-04-02,Moscow,7.6,None
+2024-04-03,Moscow,5.0,Rain
+2024-04-04,Moscow,10.7,None
+2024-04-05,Moscow,3.0,Rain
+2024-04-06,Moscow,5.5,None
+2024-04-07,Moscow,5.6,None
+2024-04-08,Moscow,7.9,None
+2024-04-09,Moscow,4.0,None
+2024-04-10,Moscow,10.0,None
+2024-04-11,Moscow,3.0,None
+2024-04-12,Moscow,9.0,Rain
+2024-04-13,Moscow,8.3,None
+2024-04-14,Moscow,9.1,None
+2024-04-15,Moscow,2.2,None
+2024-04-16,Moscow,5.3,None
+2024-04-17,Moscow,4.2,None
+2024-04-18,Moscow,11.1,Rain
+2024-04-19,Moscow,11.2,Snow
+2024-04-20,Moscow,2.1,None
+2024-04-21,Moscow,6.1,Rain
+2024-04-22,Moscow,4.5,Snow
+2024-04-23,Moscow,8.1,Rain
+2024-04-24,Moscow,2.9,None
+2024-04-25,Moscow,9.6,None
+2024-04-26,Moscow,10.2,None
+2024-04-27,Moscow,8.6,None
+2024-04-28,Moscow,8.1,None
+2024-04-29,Moscow,5.4,None
+2024-04-30,Moscow,2.7,None
+2024-05-01,Moscow,15.2,Rain
+2024-05-02,Moscow,15.1,None
+2024-05-03,Moscow,14.0,None
+2024-05-04,Moscow,13.4,Snow
+2024-05-05,Moscow,18.7,None
+2024-05-06,Moscow,15.9,Rain
+2024-05-07,Moscow,14.4,None
+2024-05-08,Moscow,10.7,None
+2024-05-09,Moscow,19.7,None
+2024-05-10,Moscow,10.7,None
+2024-05-11,Moscow,17.7,Rain
+2024-05-12,Moscow,16.2,None
+2024-05-13,Moscow,10.3,Rain
+2024-05-14,Moscow,17.9,None
+2024-05-15,Moscow,17.1,None
+2024-05-16,Moscow,10.4,None
+2024-05-17,Moscow,11.8,None
+2024-05-18,Moscow,14.2,None
+2024-05-19,Moscow,14.8,None
+2024-05-20,Moscow,10.3,None
+2024-05-21,Moscow,14.0,None
+2024-05-22,Moscow,18.7,Rain
+2024-05-23,Moscow,18.6,None
+2024-05-24,Moscow,11.3,None
+2024-05-25,Moscow,12.1,None
+2024-05-26,Moscow,10.7,Rain
+2024-05-27,Moscow,11.3,Snow
+2024-05-28,Moscow,18.6,None
+2024-05-29,Moscow,17.4,None
+2024-05-30,Moscow,18.0,None
+2024-05-31,Moscow,17.9,None
+2024-06-01,Moscow,24.4,Rain
+2024-06-02,Moscow,22.9,Rain
+2024-06-03,Moscow,16.8,None
+2024-06-04,Moscow,22.5,Rain
+2024-06-05,Moscow,19.7,None
+2024-06-06,Moscow,15.5,Rain
+2024-06-07,Moscow,17.0,Rain
+2024-06-08,Moscow,20.3,Rain
+2024-06-09,Moscow,23.1,Rain
+2024-06-10,Moscow,19.5,None
+2024-06-11,Moscow,19.5,Rain
+2024-06-12,Moscow,16.1,Rain
+2024-06-13,Moscow,19.0,Rain
+2024-06-14,Moscow,18.9,Rain
+2024-06-15,Moscow,20.8,None
+2024-06-16,Moscow,16.7,None
+2024-06-17,Moscow,17.6,None
+2024-06-18,Moscow,18.3,Rain
+2024-06-19,Moscow,21.1,None
+2024-06-20,Moscow,22.2,Rain
+2024-06-21,Moscow,20.9,None
+2024-06-22,Moscow,24.6,None
+2024-06-23,Moscow,20.8,Rain
+2024-06-24,Moscow,17.1,Rain
+2024-06-25,Moscow,20.1,Rain
+2024-06-26,Moscow,24.8,Rain
+2024-06-27,Moscow,16.3,None
+2024-06-28,Moscow,20.7,Rain
+2024-06-29,Moscow,20.7,Rain
+2024-06-30,Moscow,15.1,Rain
+2024-07-01,Moscow,18.5,Rain
+2024-07-02,Moscow,18.7,None
+2024-07-03,Moscow,17.8,Rain
+2024-07-04,Moscow,20.2,Rain
+2024-07-05,Moscow,25.3,Rain
+2024-07-06,Moscow,19.7,Rain
+2024-07-07,Moscow,19.3,None
+2024-07-08,Moscow,28.2,None
+2024-07-09,Moscow,25.8,None
+2024-07-10,Moscow,22.7,Rain
+2024-07-11,Moscow,25.4,None
+2024-07-12,Moscow,21.3,Snow
+2024-07-13,Moscow,20.5,Rain
+2024-07-14,Moscow,20.3,None
+2024-07-15,Moscow,20.8,Rain
+2024-07-16,Moscow,20.7,Rain
+2024-07-17,Moscow,28.4,Rain
+2024-07-18,Moscow,25.5,None
+2024-07-19,Moscow,17.0,None
+2024-07-20,Moscow,29.1,Rain
+2024-07-21,Moscow,18.2,Rain
+2024-07-22,Moscow,19.4,Rain
+2024-07-23,Moscow,23.1,Rain
+2024-07-24,Moscow,29.7,Snow
+2024-07-25,Moscow,19.2,Rain
+2024-07-26,Moscow,21.0,None
+2024-07-27,Moscow,19.0,Rain
+2024-07-28,Moscow,24.8,Rain
+2024-07-29,Moscow,19.4,None
+2024-07-30,Moscow,25.9,Rain
+2024-07-31,Moscow,29.4,Rain
+2024-08-01,Moscow,23.5,Rain
+2024-08-02,Moscow,16.6,None
+2024-08-03,Moscow,15.2,None
+2024-08-04,Moscow,21.8,None
+2024-08-05,Moscow,15.2,None
+2024-08-06,Moscow,20.4,Rain
+2024-08-07,Moscow,23.9,None
+2024-08-08,Moscow,20.9,None
+2024-08-09,Moscow,21.6,None
+2024-08-10,Moscow,23.0,Rain
+2024-08-11,Moscow,16.0,Rain
+2024-08-12,Moscow,21.5,Rain
+2024-08-13,Moscow,21.8,None
+2024-08-14,Moscow,22.7,Rain
+2024-08-15,Moscow,24.0,None
+2023-08-15,Saint Petersburg,19.9,None
+2023-08-16,Saint Petersburg,24.0,Rain
+2023-08-17,Saint Petersburg,18.9,Rain
+2023-08-18,Saint Petersburg,17.7,Rain
+2023-08-19,Saint Petersburg,21.8,Rain
+2023-08-20,Saint Petersburg,15.6,None
+2023-08-21,Saint Petersburg,23.9,Rain
+2023-08-22,Saint Petersburg,19.7,Rain
+2023-08-23,Saint Petersburg,20.1,None
+2023-08-24,Saint Petersburg,15.1,None
+2023-08-25,Saint Petersburg,22.4,None
+2023-08-26,Saint Petersburg,18.5,None
+2023-08-27,Saint Petersburg,19.2,Rain
+2023-08-28,Saint Petersburg,16.5,Rain
+2023-08-29,Saint Petersburg,21.9,None
+2023-08-30,Saint Petersburg,23.8,None
+2023-08-31,Saint Petersburg,24.9,Rain
+2023-09-01,Saint Petersburg,19.5,Snow
+2023-09-02,Saint Petersburg,11.0,None
+2023-09-03,Saint Petersburg,11.6,Snow
+2023-09-04,Saint Petersburg,11.8,None
+2023-09-05,Saint Petersburg,18.5,None
+2023-09-06,Saint Petersburg,16.0,None
+2023-09-07,Saint Petersburg,18.6,None
+2023-09-08,Saint Petersburg,16.9,None
+2023-09-09,Saint Petersburg,12.2,None
+2023-09-10,Saint Petersburg,14.1,None
+2023-09-11,Saint Petersburg,18.1,Rain
+2023-09-12,Saint Petersburg,14.6,None
+2023-09-13,Saint Petersburg,16.0,Rain
+2023-09-14,Saint Petersburg,14.3,None
+2023-09-15,Saint Petersburg,12.7,None
+2023-09-16,Saint Petersburg,14.5,None
+2023-09-17,Saint Petersburg,10.9,Rain
+2023-09-18,Saint Petersburg,12.1,None
+2023-09-19,Saint Petersburg,14.1,None
+2023-09-20,Saint Petersburg,15.8,None
+2023-09-21,Saint Petersburg,14.5,None
+2023-09-22,Saint Petersburg,12.0,None
+2023-09-23,Saint Petersburg,18.8,None
+2023-09-24,Saint Petersburg,14.1,None
+2023-09-25,Saint Petersburg,15.0,None
+2023-09-26,Saint Petersburg,15.6,Rain
+2023-09-27,Saint Petersburg,11.8,None
+2023-09-28,Saint Petersburg,18.1,Snow
+2023-09-29,Saint Petersburg,11.4,None
+2023-09-30,Saint Petersburg,12.1,None
+2023-10-01,Saint Petersburg,7.3,None
+2023-10-02,Saint Petersburg,10.0,None
+2023-10-03,Saint Petersburg,6.0,None
+2023-10-04,Saint Petersburg,10.7,None
+2023-10-05,Saint Petersburg,9.2,None
+2023-10-06,Saint Petersburg,9.1,None
+2023-10-07,Saint Petersburg,5.6,None
+2023-10-08,Saint Petersburg,6.3,None
+2023-10-09,Saint Petersburg,9.6,None
+2023-10-10,Saint Petersburg,5.1,None
+2023-10-11,Saint Petersburg,9.2,Snow
+2023-10-12,Saint Petersburg,9.1,None
+2023-10-13,Saint Petersburg,9.0,Snow
+2023-10-14,Saint Petersburg,10.8,None
+2023-10-15,Saint Petersburg,6.7,None
+2023-10-16,Saint Petersburg,8.5,Rain
+2023-10-17,Saint Petersburg,8.5,None
+2023-10-18,Saint Petersburg,10.1,Rain
+2023-10-19,Saint Petersburg,7.0,None
+2023-10-20,Saint Petersburg,8.0,Rain
+2023-10-21,Saint Petersburg,10.9,None
+2023-10-22,Saint Petersburg,9.8,Rain
+2023-10-23,Saint Petersburg,8.5,None
+2023-10-24,Saint Petersburg,10.3,None
+2023-10-25,Saint Petersburg,7.7,Rain
+2023-10-26,Saint Petersburg,10.1,None
+2023-10-27,Saint Petersburg,6.5,None
+2023-10-28,Saint Petersburg,7.0,None
+2023-10-29,Saint Petersburg,10.2,None
+2023-10-30,Saint Petersburg,8.2,None
+2023-10-31,Saint Petersburg,11.9,None
+2023-11-01,Saint Petersburg,-2.4,None
+2023-11-02,Saint Petersburg,1.7,None
+2023-11-03,Saint Petersburg,0.4,None
+2023-11-04,Saint Petersburg,-2.6,None
+2023-11-05,Saint Petersburg,1.0,None
+2023-11-06,Saint Petersburg,-2.2,None
+2023-11-07,Saint Petersburg,-2.2,None
+2023-11-08,Saint Petersburg,-1.4,None
+2023-11-09,Saint Petersburg,-1.6,Snow
+2023-11-10,Saint Petersburg,3.8,None
+2023-11-11,Saint Petersburg,-0.4,None
+2023-11-12,Saint Petersburg,0.9,None
+2023-11-13,Saint Petersburg,2.4,None
+2023-11-14,Saint Petersburg,4.2,None
+2023-11-15,Saint Petersburg,3.4,Rain
+2023-11-16,Saint Petersburg,-2.0,None
+2023-11-17,Saint Petersburg,-1.6,None
+2023-11-18,Saint Petersburg,-0.9,None
+2023-11-19,Saint Petersburg,0.3,Snow
+2023-11-20,Saint Petersburg,-2.0,Snow
+2023-11-21,Saint Petersburg,-1.2,Rain
+2023-11-22,Saint Petersburg,-0.3,None
+2023-11-23,Saint Petersburg,3.9,None
+2023-11-24,Saint Petersburg,2.3,None
+2023-11-25,Saint Petersburg,0.8,None
+2023-11-26,Saint Petersburg,2.9,None
+2023-11-27,Saint Petersburg,2.3,Rain
+2023-11-28,Saint Petersburg,-2.5,None
+2023-11-29,Saint Petersburg,2.7,None
+2023-11-30,Saint Petersburg,0.2,None
+2023-12-01,Saint Petersburg,-5.0,Snow
+2023-12-02,Saint Petersburg,-3.4,Snow
+2023-12-03,Saint Petersburg,-2.0,None
+2023-12-04,Saint Petersburg,-5.5,Snow
+2023-12-05,Saint Petersburg,-7.3,Snow
+2023-12-06,Saint Petersburg,-2.9,None
+2023-12-07,Saint Petersburg,-3.7,Snow
+2023-12-08,Saint Petersburg,-4.5,Snow
+2023-12-09,Saint Petersburg,-2.0,Snow
+2023-12-10,Saint Petersburg,-2.7,None
+2023-12-11,Saint Petersburg,-6.0,Snow
+2023-12-12,Saint Petersburg,-5.9,None
+2023-12-13,Saint Petersburg,-4.9,Snow
+2023-12-14,Saint Petersburg,-5.0,None
+2023-12-15,Saint Petersburg,-7.7,None
+2023-12-16,Saint Petersburg,-6.5,Snow
+2023-12-17,Saint Petersburg,-3.6,Snow
+2023-12-18,Saint Petersburg,-5.4,None
+2023-12-19,Saint Petersburg,-5.2,None
+2023-12-20,Saint Petersburg,-5.1,Snow
+2023-12-21,Saint Petersburg,-7.6,None
+2023-12-22,Saint Petersburg,-5.0,Rain
+2023-12-23,Saint Petersburg,-4.3,None
+2023-12-24,Saint Petersburg,-5.5,None
+2023-12-25,Saint Petersburg,-5.9,Snow
+2023-12-26,Saint Petersburg,-4.0,None
+2023-12-27,Saint Petersburg,-7.3,Snow
+2023-12-28,Saint Petersburg,-5.8,None
+2023-12-29,Saint Petersburg,-5.3,Snow
+2023-12-30,Saint Petersburg,-3.1,None
+2023-12-31,Saint Petersburg,-3.8,Snow
+2024-01-01,Saint Petersburg,-8.6,Rain
+2024-01-02,Saint Petersburg,-7.5,Snow
+2024-01-03,Saint Petersburg,-8.4,Snow
+2024-01-04,Saint Petersburg,-5.3,None
+2024-01-05,Saint Petersburg,-6.1,Rain
+2024-01-06,Saint Petersburg,-6.9,None
+2024-01-07,Saint Petersburg,-7.2,Snow
+2024-01-08,Saint Petersburg,-6.1,Snow
+2024-01-09,Saint Petersburg,-9.6,None
+2024-01-10,Saint Petersburg,-5.9,None
+2024-01-11,Saint Petersburg,-7.4,None
+2024-01-12,Saint Petersburg,-5.9,None
+2024-01-13,Saint Petersburg,-7.0,Snow
+2024-01-14,Saint Petersburg,-5.1,Snow
+2024-01-15,Saint Petersburg,-9.1,None
+2024-01-16,Saint Petersburg,-6.8,None
+2024-01-17,Saint Petersburg,-8.1,Snow
+2024-01-18,Saint Petersburg,-8.0,Rain
+2024-01-19,Saint Petersburg,-8.5,Rain
+2024-01-20,Saint Petersburg,-5.3,None
+2024-01-21,Saint Petersburg,-8.6,Snow
+2024-01-22,Saint Petersburg,-7.2,Snow
+2024-01-23,Saint Petersburg,-6.8,Rain
+2024-01-24,Saint Petersburg,-5.7,None
+2024-01-25,Saint Petersburg,-7.7,None
+2024-01-26,Saint Petersburg,-6.7,None
+2024-01-27,Saint Petersburg,-7.1,Snow
+2024-01-28,Saint Petersburg,-7.0,Snow
+2024-01-29,Saint Petersburg,-7.9,Snow
+2024-01-30,Saint Petersburg,-6.4,Snow
+2024-01-31,Saint Petersburg,-6.2,None
+2024-02-01,Saint Petersburg,-6.1,None
+2024-02-02,Saint Petersburg,-7.4,Snow
+2024-02-03,Saint Petersburg,-5.9,Snow
+2024-02-04,Saint Petersburg,-7.6,Snow
+2024-02-05,Saint Petersburg,-6.4,None
+2024-02-06,Saint Petersburg,-9.2,Snow
+2024-02-07,Saint Petersburg,-6.3,Snow
+2024-02-08,Saint Petersburg,-5.6,Snow
+2024-02-09,Saint Petersburg,-6.0,None
+2024-02-10,Saint Petersburg,-8.0,Snow
+2024-02-11,Saint Petersburg,-9.6,Snow
+2024-02-12,Saint Petersburg,-9.3,Snow
+2024-02-13,Saint Petersburg,-5.4,None
+2024-02-14,Saint Petersburg,-6.6,None
+2024-02-15,Saint Petersburg,-7.3,Snow
+2024-02-16,Saint Petersburg,-3.0,Snow
+2024-02-17,Saint Petersburg,-5.0,None
+2024-02-18,Saint Petersburg,-6.8,Snow
+2024-02-19,Saint Petersburg,-4.1,Snow
+2024-02-20,Saint Petersburg,-9.0,None
+2024-02-21,Saint Petersburg,-8.2,Snow
+2024-02-22,Saint Petersburg,-7.2,None
+2024-02-23,Saint Petersburg,-6.4,Rain
+2024-02-24,Saint Petersburg,-9.7,None
+2024-02-25,Saint Petersburg,-3.3,Snow
+2024-02-26,Saint Petersburg,-8.5,None
+2024-02-27,Saint Petersburg,-4.0,Snow
+2024-02-28,Saint Petersburg,-6.5,Snow
+2024-02-29,Saint Petersburg,-6.5,Snow
+2024-03-01,Saint Petersburg,3.9,Rain
+2024-03-02,Saint Petersburg,-0.8,None
+2024-03-03,Saint Petersburg,-1.3,Rain
+2024-03-04,Saint Petersburg,2.8,Rain
+2024-03-05,Saint Petersburg,2.2,None
+2024-03-06,Saint Petersburg,-1.6,None
+2024-03-07,Saint Petersburg,-1.7,Rain
+2024-03-08,Saint Petersburg,-1.7,None
+2024-03-09,Saint Petersburg,-1.0,Snow
+2024-03-10,Saint Petersburg,-2.7,None
+2024-03-11,Saint Petersburg,-0.7,None
+2024-03-12,Saint Petersburg,-0.1,Rain
+2024-03-13,Saint Petersburg,0.1,Rain
+2024-03-14,Saint Petersburg,-2.1,None
+2024-03-15,Saint Petersburg,4.4,None
+2024-03-16,Saint Petersburg,0.8,Rain
+2024-03-17,Saint Petersburg,-1.8,Rain
+2024-03-18,Saint Petersburg,-3.6,None
+2024-03-19,Saint Petersburg,-3.6,Rain
+2024-03-20,Saint Petersburg,-2.8,Rain
+2024-03-21,Saint Petersburg,4.4,None
+2024-03-22,Saint Petersburg,0.4,None
+2024-03-23,Saint Petersburg,-1.7,None
+2024-03-24,Saint Petersburg,1.0,Snow
+2024-03-25,Saint Petersburg,4.4,Rain
+2024-03-26,Saint Petersburg,3.9,None
+2024-03-27,Saint Petersburg,1.6,Rain
+2024-03-28,Saint Petersburg,-1.1,Snow
+2024-03-29,Saint Petersburg,-0.8,None
+2024-03-30,Saint Petersburg,2.1,Snow
+2024-03-31,Saint Petersburg,-2.6,Rain
+2024-04-01,Saint Petersburg,7.2,None
+2024-04-02,Saint Petersburg,9.8,None
+2024-04-03,Saint Petersburg,8.6,None
+2024-04-04,Saint Petersburg,6.8,None
+2024-04-05,Saint Petersburg,6.0,None
+2024-04-06,Saint Petersburg,11.6,None
+2024-04-07,Saint Petersburg,9.3,None
+2024-04-08,Saint Petersburg,5.6,None
+2024-04-09,Saint Petersburg,6.1,None
+2024-04-10,Saint Petersburg,7.4,None
+2024-04-11,Saint Petersburg,3.3,None
+2024-04-12,Saint Petersburg,3.7,None
+2024-04-13,Saint Petersburg,11.3,None
+2024-04-14,Saint Petersburg,8.6,None
+2024-04-15,Saint Petersburg,11.1,None
+2024-04-16,Saint Petersburg,9.7,None
+2024-04-17,Saint Petersburg,11.6,Rain
+2024-04-18,Saint Petersburg,10.5,None
+2024-04-19,Saint Petersburg,4.7,None
+2024-04-20,Saint Petersburg,4.7,Rain
+2024-04-21,Saint Petersburg,2.3,None
+2024-04-22,Saint Petersburg,4.7,None
+2024-04-23,Saint Petersburg,4.3,Rain
+2024-04-24,Saint Petersburg,7.6,None
+2024-04-25,Saint Petersburg,6.3,None
+2024-04-26,Saint Petersburg,3.1,None
+2024-04-27,Saint Petersburg,9.0,Rain
+2024-04-28,Saint Petersburg,9.3,None
+2024-04-29,Saint Petersburg,11.5,Rain
+2024-04-30,Saint Petersburg,11.0,None
+2024-05-01,Saint Petersburg,19.3,Rain
+2024-05-02,Saint Petersburg,18.4,None
+2024-05-03,Saint Petersburg,17.4,Snow
+2024-05-04,Saint Petersburg,16.8,None
+2024-05-05,Saint Petersburg,19.5,None
+2024-05-06,Saint Petersburg,16.0,None
+2024-05-07,Saint Petersburg,19.3,None
+2024-05-08,Saint Petersburg,15.0,None
+2024-05-09,Saint Petersburg,17.9,None
+2024-05-10,Saint Petersburg,19.1,Snow
+2024-05-11,Saint Petersburg,10.6,None
+2024-05-12,Saint Petersburg,10.2,None
+2024-05-13,Saint Petersburg,15.4,Snow
+2024-05-14,Saint Petersburg,18.5,None
+2024-05-15,Saint Petersburg,10.9,None
+2024-05-16,Saint Petersburg,15.3,None
+2024-05-17,Saint Petersburg,19.0,Snow
+2024-05-18,Saint Petersburg,14.0,Rain
+2024-05-19,Saint Petersburg,13.8,Rain
+2024-05-20,Saint Petersburg,14.8,None
+2024-05-21,Saint Petersburg,19.3,None
+2024-05-22,Saint Petersburg,17.3,None
+2024-05-23,Saint Petersburg,10.2,None
+2024-05-24,Saint Petersburg,15.0,None
+2024-05-25,Saint Petersburg,13.3,None
+2024-05-26,Saint Petersburg,17.0,Rain
+2024-05-27,Saint Petersburg,14.9,Snow
+2024-05-28,Saint Petersburg,14.9,None
+2024-05-29,Saint Petersburg,12.0,None
+2024-05-30,Saint Petersburg,10.4,None
+2024-05-31,Saint Petersburg,12.5,None
+2024-06-01,Saint Petersburg,22.7,Rain
+2024-06-02,Saint Petersburg,16.7,Rain
+2024-06-03,Saint Petersburg,19.5,None
+2024-06-04,Saint Petersburg,21.3,Rain
+2024-06-05,Saint Petersburg,18.0,Rain
+2024-06-06,Saint Petersburg,17.9,None
+2024-06-07,Saint Petersburg,21.6,None
+2024-06-08,Saint Petersburg,18.4,None
+2024-06-09,Saint Petersburg,15.2,Rain
+2024-06-10,Saint Petersburg,24.4,Rain
+2024-06-11,Saint Petersburg,23.5,Rain
+2024-06-12,Saint Petersburg,23.2,Rain
+2024-06-13,Saint Petersburg,20.1,None
+2024-06-14,Saint Petersburg,20.7,Snow
+2024-06-15,Saint Petersburg,23.8,Rain
+2024-06-16,Saint Petersburg,16.0,Rain
+2024-06-17,Saint Petersburg,23.5,None
+2024-06-18,Saint Petersburg,16.4,None
+2024-06-19,Saint Petersburg,16.6,Rain
+2024-06-20,Saint Petersburg,18.5,Rain
+2024-06-21,Saint Petersburg,20.6,None
+2024-06-22,Saint Petersburg,18.7,None
+2024-06-23,Saint Petersburg,17.1,Rain
+2024-06-24,Saint Petersburg,19.3,None
+2024-06-25,Saint Petersburg,22.6,Rain
+2024-06-26,Saint Petersburg,23.1,None
+2024-06-27,Saint Petersburg,19.4,Rain
+2024-06-28,Saint Petersburg,17.1,None
+2024-06-29,Saint Petersburg,18.1,None
+2024-06-30,Saint Petersburg,20.4,Rain
+2024-07-01,Saint Petersburg,17.8,Snow
+2024-07-02,Saint Petersburg,28.2,None
+2024-07-03,Saint Petersburg,18.5,None
+2024-07-04,Saint Petersburg,19.6,None
+2024-07-05,Saint Petersburg,27.9,None
+2024-07-06,Saint Petersburg,25.9,None
+2024-07-07,Saint Petersburg,22.5,Rain
+2024-07-08,Saint Petersburg,23.6,None
+2024-07-09,Saint Petersburg,27.3,None
+2024-07-10,Saint Petersburg,19.5,None
+2024-07-11,Saint Petersburg,18.0,None
+2024-07-12,Saint Petersburg,22.3,Rain
+2024-07-13,Saint Petersburg,17.2,None
+2024-07-14,Saint Petersburg,21.9,None
+2024-07-15,Saint Petersburg,28.9,Rain
+2024-07-16,Saint Petersburg,24.1,Snow
+2024-07-17,Saint Petersburg,20.1,Rain
+2024-07-18,Saint Petersburg,17.1,Rain
+2024-07-19,Saint Petersburg,23.3,None
+2024-07-20,Saint Petersburg,20.8,Rain
+2024-07-21,Saint Petersburg,19.2,Rain
+2024-07-22,Saint Petersburg,24.0,None
+2024-07-23,Saint Petersburg,19.0,None
+2024-07-24,Saint Petersburg,18.4,Rain
+2024-07-25,Saint Petersburg,24.8,None
+2024-07-26,Saint Petersburg,23.7,Snow
+2024-07-27,Saint Petersburg,24.6,None
+2024-07-28,Saint Petersburg,27.1,None
+2024-07-29,Saint Petersburg,22.6,Rain
+2024-07-30,Saint Petersburg,19.5,Rain
+2024-07-31,Saint Petersburg,20.9,None
+2024-08-01,Saint Petersburg,17.3,None
+2024-08-02,Saint Petersburg,16.7,Rain
+2024-08-03,Saint Petersburg,18.8,Rain
+2024-08-04,Saint Petersburg,24.7,Rain
+2024-08-05,Saint Petersburg,18.2,None
+2024-08-06,Saint Petersburg,16.5,None
+2024-08-07,Saint Petersburg,17.6,None
+2024-08-08,Saint Petersburg,21.6,None
+2024-08-09,Saint Petersburg,15.2,Rain
+2024-08-10,Saint Petersburg,23.1,Snow
+2024-08-11,Saint Petersburg,24.1,Rain
+2024-08-12,Saint Petersburg,19.7,None
+2024-08-13,Saint Petersburg,17.1,Snow
+2024-08-14,Saint Petersburg,24.8,Rain
+2024-08-15,Saint Petersburg,16.1,Rain
+2023-08-15,Yekaterinburg,18.1,Rain
+2023-08-16,Yekaterinburg,18.2,Rain
+2023-08-17,Yekaterinburg,13.0,None
+2023-08-18,Yekaterinburg,12.4,Rain
+2023-08-19,Yekaterinburg,18.5,Rain
+2023-08-20,Yekaterinburg,16.3,Rain
+2023-08-21,Yekaterinburg,17.2,Rain
+2023-08-22,Yekaterinburg,21.3,Rain
+2023-08-23,Yekaterinburg,12.9,Rain
+2023-08-24,Yekaterinburg,13.6,None
+2023-08-25,Yekaterinburg,12.8,None
+2023-08-26,Yekaterinburg,13.9,None
+2023-08-27,Yekaterinburg,17.3,Rain
+2023-08-28,Yekaterinburg,18.1,Snow
+2023-08-29,Yekaterinburg,12.7,None
+2023-08-30,Yekaterinburg,12.9,Snow
+2023-08-31,Yekaterinburg,12.8,Rain
+2023-09-01,Yekaterinburg,13.4,None
+2023-09-02,Yekaterinburg,9.4,None
+2023-09-03,Yekaterinburg,12.7,None
+2023-09-04,Yekaterinburg,10.9,None
+2023-09-05,Yekaterinburg,8.5,None
+2023-09-06,Yekaterinburg,9.7,None
+2023-09-07,Yekaterinburg,6.1,None
+2023-09-08,Yekaterinburg,5.3,None
+2023-09-09,Yekaterinburg,14.5,None
+2023-09-10,Yekaterinburg,14.5,Rain
+2023-09-11,Yekaterinburg,11.4,None
+2023-09-12,Yekaterinburg,13.3,None
+2023-09-13,Yekaterinburg,10.0,None
+2023-09-14,Yekaterinburg,10.9,Rain
+2023-09-15,Yekaterinburg,5.7,None
+2023-09-16,Yekaterinburg,10.3,None
+2023-09-17,Yekaterinburg,8.4,None
+2023-09-18,Yekaterinburg,13.9,None
+2023-09-19,Yekaterinburg,13.2,None
+2023-09-20,Yekaterinburg,6.0,None
+2023-09-21,Yekaterinburg,5.5,None
+2023-09-22,Yekaterinburg,8.4,Rain
+2023-09-23,Yekaterinburg,12.4,None
+2023-09-24,Yekaterinburg,7.2,None
+2023-09-25,Yekaterinburg,10.5,None
+2023-09-26,Yekaterinburg,6.3,Snow
+2023-09-27,Yekaterinburg,13.0,None
+2023-09-28,Yekaterinburg,9.1,None
+2023-09-29,Yekaterinburg,12.9,None
+2023-09-30,Yekaterinburg,6.3,Rain
+2023-10-01,Yekaterinburg,1.0,None
+2023-10-02,Yekaterinburg,0.8,None
+2023-10-03,Yekaterinburg,0.4,None
+2023-10-04,Yekaterinburg,1.0,None
+2023-10-05,Yekaterinburg,4.7,None
+2023-10-06,Yekaterinburg,-2.6,None
+2023-10-07,Yekaterinburg,4.7,Rain
+2023-10-08,Yekaterinburg,1.9,None
+2023-10-09,Yekaterinburg,4.4,None
+2023-10-10,Yekaterinburg,-0.5,Snow
+2023-10-11,Yekaterinburg,-2.0,Snow
+2023-10-12,Yekaterinburg,5.6,None
+2023-10-13,Yekaterinburg,6.4,Rain
+2023-10-14,Yekaterinburg,-1.1,None
+2023-10-15,Yekaterinburg,-2.3,None
+2023-10-16,Yekaterinburg,4.4,None
+2023-10-17,Yekaterinburg,0.3,None
+2023-10-18,Yekaterinburg,5.7,None
+2023-10-19,Yekaterinburg,0.9,None
+2023-10-20,Yekaterinburg,4.0,None
+2023-10-21,Yekaterinburg,3.6,None
+2023-10-22,Yekaterinburg,-1.0,Snow
+2023-10-23,Yekaterinburg,-2.8,None
+2023-10-24,Yekaterinburg,-2.8,None
+2023-10-25,Yekaterinburg,2.0,None
+2023-10-26,Yekaterinburg,-1.7,None
+2023-10-27,Yekaterinburg,3.7,Rain
+2023-10-28,Yekaterinburg,2.3,None
+2023-10-29,Yekaterinburg,-1.0,None
+2023-10-30,Yekaterinburg,-1.4,None
+2023-10-31,Yekaterinburg,-0.8,None
+2023-11-01,Yekaterinburg,-4.4,Snow
+2023-11-02,Yekaterinburg,-8.0,None
+2023-11-03,Yekaterinburg,-1.8,None
+2023-11-04,Yekaterinburg,-7.4,None
+2023-11-05,Yekaterinburg,-9.6,None
+2023-11-06,Yekaterinburg,-2.6,None
+2023-11-07,Yekaterinburg,-7.8,Rain
+2023-11-08,Yekaterinburg,-2.2,None
+2023-11-09,Yekaterinburg,-3.0,None
+2023-11-10,Yekaterinburg,-8.4,None
+2023-11-11,Yekaterinburg,-4.2,Snow
+2023-11-12,Yekaterinburg,-9.3,None
+2023-11-13,Yekaterinburg,-6.7,None
+2023-11-14,Yekaterinburg,-9.8,None
+2023-11-15,Yekaterinburg,-1.8,None
+2023-11-16,Yekaterinburg,-5.5,None
+2023-11-17,Yekaterinburg,-7.0,None
+2023-11-18,Yekaterinburg,-1.6,Snow
+2023-11-19,Yekaterinburg,-5.6,None
+2023-11-20,Yekaterinburg,-1.5,None
+2023-11-21,Yekaterinburg,-4.5,None
+2023-11-22,Yekaterinburg,-2.6,None
+2023-11-23,Yekaterinburg,-1.9,Rain
+2023-11-24,Yekaterinburg,-7.8,Rain
+2023-11-25,Yekaterinburg,-2.0,None
+2023-11-26,Yekaterinburg,-8.3,None
+2023-11-27,Yekaterinburg,-5.5,None
+2023-11-28,Yekaterinburg,-4.5,None
+2023-11-29,Yekaterinburg,-1.4,None
+2023-11-30,Yekaterinburg,-7.7,None
+2023-12-01,Yekaterinburg,-13.0,Snow
+2023-12-02,Yekaterinburg,-16.3,Rain
+2023-12-03,Yekaterinburg,-13.4,Rain
+2023-12-04,Yekaterinburg,-16.6,Snow
+2023-12-05,Yekaterinburg,-16.0,Snow
+2023-12-06,Yekaterinburg,-16.6,Snow
+2023-12-07,Yekaterinburg,-10.2,Rain
+2023-12-08,Yekaterinburg,-11.1,Snow
+2023-12-09,Yekaterinburg,-11.6,Snow
+2023-12-10,Yekaterinburg,-9.5,Snow
+2023-12-11,Yekaterinburg,-11.1,Snow
+2023-12-12,Yekaterinburg,-17.6,Snow
+2023-12-13,Yekaterinburg,-16.9,None
+2023-12-14,Yekaterinburg,-15.8,Snow
+2023-12-15,Yekaterinburg,-8.1,None
+2023-12-16,Yekaterinburg,-8.7,None
+2023-12-17,Yekaterinburg,-8.5,Snow
+2023-12-18,Yekaterinburg,-11.7,Rain
+2023-12-19,Yekaterinburg,-16.2,Snow
+2023-12-20,Yekaterinburg,-16.2,None
+2023-12-21,Yekaterinburg,-13.4,None
+2023-12-22,Yekaterinburg,-14.0,Snow
+2023-12-23,Yekaterinburg,-14.1,None
+2023-12-24,Yekaterinburg,-12.6,Snow
+2023-12-25,Yekaterinburg,-15.9,Snow
+2023-12-26,Yekaterinburg,-15.5,Snow
+2023-12-27,Yekaterinburg,-15.4,None
+2023-12-28,Yekaterinburg,-8.7,Snow
+2023-12-29,Yekaterinburg,-8.7,Snow
+2023-12-30,Yekaterinburg,-16.7,None
+2023-12-31,Yekaterinburg,-10.1,Rain
+2024-01-01,Yekaterinburg,-10.1,Snow
+2024-01-02,Yekaterinburg,-11.7,None
+2024-01-03,Yekaterinburg,-10.4,None
+2024-01-04,Yekaterinburg,-15.4,Snow
+2024-01-05,Yekaterinburg,-13.6,Rain
+2024-01-06,Yekaterinburg,-18.0,None
+2024-01-07,Yekaterinburg,-15.2,None
+2024-01-08,Yekaterinburg,-13.4,None
+2024-01-09,Yekaterinburg,-18.4,Snow
+2024-01-10,Yekaterinburg,-19.9,Snow
+2024-01-11,Yekaterinburg,-12.7,Rain
+2024-01-12,Yekaterinburg,-10.1,None
+2024-01-13,Yekaterinburg,-18.8,None
+2024-01-14,Yekaterinburg,-16.3,None
+2024-01-15,Yekaterinburg,-13.5,Snow
+2024-01-16,Yekaterinburg,-14.3,Snow
+2024-01-17,Yekaterinburg,-19.2,Snow
+2024-01-18,Yekaterinburg,-18.5,Rain
+2024-01-19,Yekaterinburg,-10.7,Rain
+2024-01-20,Yekaterinburg,-19.9,Snow
+2024-01-21,Yekaterinburg,-10.9,Snow
+2024-01-22,Yekaterinburg,-14.8,Snow
+2024-01-23,Yekaterinburg,-14.0,Snow
+2024-01-24,Yekaterinburg,-16.3,Rain
+2024-01-25,Yekaterinburg,-15.8,Snow
+2024-01-26,Yekaterinburg,-10.6,None
+2024-01-27,Yekaterinburg,-11.1,Snow
+2024-01-28,Yekaterinburg,-17.0,Snow
+2024-01-29,Yekaterinburg,-11.9,Rain
+2024-01-30,Yekaterinburg,-19.0,Rain
+2024-01-31,Yekaterinburg,-11.7,Snow
+2024-02-01,Yekaterinburg,-14.3,None
+2024-02-02,Yekaterinburg,-8.8,None
+2024-02-03,Yekaterinburg,-18.0,Snow
+2024-02-04,Yekaterinburg,-14.7,Snow
+2024-02-05,Yekaterinburg,-11.9,None
+2024-02-06,Yekaterinburg,-16.8,Snow
+2024-02-07,Yekaterinburg,-13.7,None
+2024-02-08,Yekaterinburg,-12.0,None
+2024-02-09,Yekaterinburg,-17.1,None
+2024-02-10,Yekaterinburg,-9.6,Rain
+2024-02-11,Yekaterinburg,-17.0,Snow
+2024-02-12,Yekaterinburg,-15.0,Snow
+2024-02-13,Yekaterinburg,-11.2,Rain
+2024-02-14,Yekaterinburg,-8.6,Snow
+2024-02-15,Yekaterinburg,-11.4,Snow
+2024-02-16,Yekaterinburg,-14.7,None
+2024-02-17,Yekaterinburg,-13.6,None
+2024-02-18,Yekaterinburg,-14.1,Snow
+2024-02-19,Yekaterinburg,-14.5,Rain
+2024-02-20,Yekaterinburg,-11.3,None
+2024-02-21,Yekaterinburg,-12.3,None
+2024-02-22,Yekaterinburg,-13.1,None
+2024-02-23,Yekaterinburg,-16.9,Snow
+2024-02-24,Yekaterinburg,-17.3,Snow
+2024-02-25,Yekaterinburg,-17.4,Snow
+2024-02-26,Yekaterinburg,-13.1,Rain
+2024-02-27,Yekaterinburg,-11.7,None
+2024-02-28,Yekaterinburg,-14.9,Snow
+2024-02-29,Yekaterinburg,-12.4,Snow
+2024-03-01,Yekaterinburg,-9.6,Rain
+2024-03-02,Yekaterinburg,-4.1,None
+2024-03-03,Yekaterinburg,-3.9,Rain
+2024-03-04,Yekaterinburg,-8.4,Rain
+2024-03-05,Yekaterinburg,1.7,Snow
+2024-03-06,Yekaterinburg,-4.8,None
+2024-03-07,Yekaterinburg,-5.1,None
+2024-03-08,Yekaterinburg,-7.7,None
+2024-03-09,Yekaterinburg,-3.8,Rain
+2024-03-10,Yekaterinburg,-9.6,None
+2024-03-11,Yekaterinburg,-0.1,Rain
+2024-03-12,Yekaterinburg,1.5,Rain
+2024-03-13,Yekaterinburg,2.1,None
+2024-03-14,Yekaterinburg,-3.5,None
+2024-03-15,Yekaterinburg,-9.9,None
+2024-03-16,Yekaterinburg,-8.7,None
+2024-03-17,Yekaterinburg,-7.7,None
+2024-03-18,Yekaterinburg,1.8,None
+2024-03-19,Yekaterinburg,-0.4,None
+2024-03-20,Yekaterinburg,1.9,Rain
+2024-03-21,Yekaterinburg,-1.5,None
+2024-03-22,Yekaterinburg,-9.9,Snow
+2024-03-23,Yekaterinburg,1.4,Rain
+2024-03-24,Yekaterinburg,-1.4,None
+2024-03-25,Yekaterinburg,1.6,None
+2024-03-26,Yekaterinburg,-2.7,None
+2024-03-27,Yekaterinburg,2.0,None
+2024-03-28,Yekaterinburg,-7.1,None
+2024-03-29,Yekaterinburg,-0.1,None
+2024-03-30,Yekaterinburg,-7.0,None
+2024-03-31,Yekaterinburg,-0.2,Snow
+2024-04-01,Yekaterinburg,7.5,None
+2024-04-02,Yekaterinburg,8.7,None
+2024-04-03,Yekaterinburg,3.8,None
+2024-04-04,Yekaterinburg,2.8,Rain
+2024-04-05,Yekaterinburg,3.8,None
+2024-04-06,Yekaterinburg,0.4,None
+2024-04-07,Yekaterinburg,4.6,None
+2024-04-08,Yekaterinburg,-1.1,None
+2024-04-09,Yekaterinburg,5.9,Rain
+2024-04-10,Yekaterinburg,3.5,Rain
+2024-04-11,Yekaterinburg,9.2,Rain
+2024-04-12,Yekaterinburg,5.3,None
+2024-04-13,Yekaterinburg,9.8,None
+2024-04-14,Yekaterinburg,-0.4,None
+2024-04-15,Yekaterinburg,-2.3,Snow
+2024-04-16,Yekaterinburg,4.6,None
+2024-04-17,Yekaterinburg,5.5,None
+2024-04-18,Yekaterinburg,-2.6,None
+2024-04-19,Yekaterinburg,6.3,None
+2024-04-20,Yekaterinburg,6.8,None
+2024-04-21,Yekaterinburg,-0.1,None
+2024-04-22,Yekaterinburg,1.8,Rain
+2024-04-23,Yekaterinburg,7.8,None
+2024-04-24,Yekaterinburg,4.7,Rain
+2024-04-25,Yekaterinburg,0.1,None
+2024-04-26,Yekaterinburg,9.6,None
+2024-04-27,Yekaterinburg,9.8,None
+2024-04-28,Yekaterinburg,6.1,None
+2024-04-29,Yekaterinburg,0.4,None
+2024-04-30,Yekaterinburg,1.2,None
+2024-05-01,Yekaterinburg,7.6,None
+2024-05-02,Yekaterinburg,12.0,None
+2024-05-03,Yekaterinburg,5.9,None
+2024-05-04,Yekaterinburg,6.0,None
+2024-05-05,Yekaterinburg,5.9,Rain
+2024-05-06,Yekaterinburg,5.2,None
+2024-05-07,Yekaterinburg,13.9,Rain
+2024-05-08,Yekaterinburg,5.7,Rain
+2024-05-09,Yekaterinburg,9.9,Rain
+2024-05-10,Yekaterinburg,11.0,None
+2024-05-11,Yekaterinburg,14.9,None
+2024-05-12,Yekaterinburg,11.2,None
+2024-05-13,Yekaterinburg,5.4,None
+2024-05-14,Yekaterinburg,6.2,None
+2024-05-15,Yekaterinburg,10.7,None
+2024-05-16,Yekaterinburg,5.3,None
+2024-05-17,Yekaterinburg,14.2,None
+2024-05-18,Yekaterinburg,11.2,Rain
+2024-05-19,Yekaterinburg,12.8,None
+2024-05-20,Yekaterinburg,13.6,None
+2024-05-21,Yekaterinburg,13.9,None
+2024-05-22,Yekaterinburg,7.8,None
+2024-05-23,Yekaterinburg,13.0,None
+2024-05-24,Yekaterinburg,7.3,None
+2024-05-25,Yekaterinburg,14.0,Rain
+2024-05-26,Yekaterinburg,10.5,None
+2024-05-27,Yekaterinburg,9.7,None
+2024-05-28,Yekaterinburg,14.2,None
+2024-05-29,Yekaterinburg,9.2,None
+2024-05-30,Yekaterinburg,10.0,None
+2024-05-31,Yekaterinburg,10.2,None
+2024-06-01,Yekaterinburg,15.1,Rain
+2024-06-02,Yekaterinburg,10.6,Rain
+2024-06-03,Yekaterinburg,16.3,Rain
+2024-06-04,Yekaterinburg,14.7,Rain
+2024-06-05,Yekaterinburg,16.4,None
+2024-06-06,Yekaterinburg,18.7,Rain
+2024-06-07,Yekaterinburg,16.3,Rain
+2024-06-08,Yekaterinburg,18.9,None
+2024-06-09,Yekaterinburg,17.2,Rain
+2024-06-10,Yekaterinburg,12.3,Rain
+2024-06-11,Yekaterinburg,13.1,Rain
+2024-06-12,Yekaterinburg,12.1,Rain
+2024-06-13,Yekaterinburg,10.3,None
+2024-06-14,Yekaterinburg,13.3,None
+2024-06-15,Yekaterinburg,19.1,Rain
+2024-06-16,Yekaterinburg,13.2,Rain
+2024-06-17,Yekaterinburg,16.8,Rain
+2024-06-18,Yekaterinburg,12.6,None
+2024-06-19,Yekaterinburg,17.1,Rain
+2024-06-20,Yekaterinburg,12.6,Rain
+2024-06-21,Yekaterinburg,18.6,None
+2024-06-22,Yekaterinburg,15.8,Rain
+2024-06-23,Yekaterinburg,18.3,None
+2024-06-24,Yekaterinburg,12.1,Rain
+2024-06-25,Yekaterinburg,12.7,Rain
+2024-06-26,Yekaterinburg,17.9,Rain
+2024-06-27,Yekaterinburg,17.0,Rain
+2024-06-28,Yekaterinburg,14.0,Rain
+2024-06-29,Yekaterinburg,15.9,None
+2024-06-30,Yekaterinburg,10.8,None
+2024-07-01,Yekaterinburg,21.7,Snow
+2024-07-02,Yekaterinburg,15.4,Rain
+2024-07-03,Yekaterinburg,18.1,Rain
+2024-07-04,Yekaterinburg,19.3,Rain
+2024-07-05,Yekaterinburg,24.2,None
+2024-07-06,Yekaterinburg,23.3,Rain
+2024-07-07,Yekaterinburg,19.1,None
+2024-07-08,Yekaterinburg,23.3,Rain
+2024-07-09,Yekaterinburg,19.3,None
+2024-07-10,Yekaterinburg,16.4,Rain
+2024-07-11,Yekaterinburg,18.2,Rain
+2024-07-12,Yekaterinburg,24.8,Rain
+2024-07-13,Yekaterinburg,15.5,Rain
+2024-07-14,Yekaterinburg,23.2,None
+2024-07-15,Yekaterinburg,17.6,Rain
+2024-07-16,Yekaterinburg,17.4,Rain
+2024-07-17,Yekaterinburg,24.8,None
+2024-07-18,Yekaterinburg,15.5,Rain
+2024-07-19,Yekaterinburg,19.8,None
+2024-07-20,Yekaterinburg,16.9,Rain
+2024-07-21,Yekaterinburg,24.6,Rain
+2024-07-22,Yekaterinburg,17.4,Rain
+2024-07-23,Yekaterinburg,19.9,Rain
+2024-07-24,Yekaterinburg,20.8,None
+2024-07-25,Yekaterinburg,16.7,Rain
+2024-07-26,Yekaterinburg,19.2,None
+2024-07-27,Yekaterinburg,16.3,Rain
+2024-07-28,Yekaterinburg,22.0,Rain
+2024-07-29,Yekaterinburg,19.9,Snow
+2024-07-30,Yekaterinburg,19.9,None
+2024-07-31,Yekaterinburg,16.1,Rain
+2024-08-01,Yekaterinburg,12.7,Rain
+2024-08-02,Yekaterinburg,13.0,None
+2024-08-03,Yekaterinburg,20.9,Snow
+2024-08-04,Yekaterinburg,12.0,None
+2024-08-05,Yekaterinburg,15.7,None
+2024-08-06,Yekaterinburg,15.7,Snow
+2024-08-07,Yekaterinburg,16.6,Rain
+2024-08-08,Yekaterinburg,13.8,None
+2024-08-09,Yekaterinburg,19.8,Rain
+2024-08-10,Yekaterinburg,14.5,Rain
+2024-08-11,Yekaterinburg,13.9,None
+2024-08-12,Yekaterinburg,20.7,Rain
+2024-08-13,Yekaterinburg,17.4,None
+2024-08-14,Yekaterinburg,12.5,Rain
+2024-08-15,Yekaterinburg,18.5,Rain
+2023-08-15,Novosibirsk,11.7,Rain
+2023-08-16,Novosibirsk,12.0,Rain
+2023-08-17,Novosibirsk,12.7,None
+2023-08-18,Novosibirsk,11.5,Rain
+2023-08-19,Novosibirsk,12.4,None
+2023-08-20,Novosibirsk,18.3,Rain
+2023-08-21,Novosibirsk,14.2,Rain
+2023-08-22,Novosibirsk,14.5,Rain
+2023-08-23,Novosibirsk,17.8,Rain
+2023-08-24,Novosibirsk,18.4,None
+2023-08-25,Novosibirsk,11.5,None
+2023-08-26,Novosibirsk,14.7,Rain
+2023-08-27,Novosibirsk,12.9,Rain
+2023-08-28,Novosibirsk,13.4,None
+2023-08-29,Novosibirsk,18.5,Rain
+2023-08-30,Novosibirsk,17.2,None
+2023-08-31,Novosibirsk,14.8,Snow
+2023-09-01,Novosibirsk,14.5,Rain
+2023-09-02,Novosibirsk,14.0,Rain
+2023-09-03,Novosibirsk,9.6,None
+2023-09-04,Novosibirsk,8.7,None
+2023-09-05,Novosibirsk,10.2,None
+2023-09-06,Novosibirsk,10.3,Snow
+2023-09-07,Novosibirsk,14.1,None
+2023-09-08,Novosibirsk,8.7,None
+2023-09-09,Novosibirsk,8.6,Rain
+2023-09-10,Novosibirsk,10.2,None
+2023-09-11,Novosibirsk,13.5,Rain
+2023-09-12,Novosibirsk,6.3,Rain
+2023-09-13,Novosibirsk,9.4,None
+2023-09-14,Novosibirsk,5.5,None
+2023-09-15,Novosibirsk,8.6,None
+2023-09-16,Novosibirsk,11.9,Rain
+2023-09-17,Novosibirsk,7.4,None
+2023-09-18,Novosibirsk,13.5,None
+2023-09-19,Novosibirsk,14.4,None
+2023-09-20,Novosibirsk,8.2,None
+2023-09-21,Novosibirsk,5.1,None
+2023-09-22,Novosibirsk,6.4,None
+2023-09-23,Novosibirsk,6.7,None
+2023-09-24,Novosibirsk,10.9,None
+2023-09-25,Novosibirsk,5.4,None
+2023-09-26,Novosibirsk,5.3,Rain
+2023-09-27,Novosibirsk,8.2,Rain
+2023-09-28,Novosibirsk,9.3,None
+2023-09-29,Novosibirsk,10.1,Rain
+2023-09-30,Novosibirsk,7.7,None
+2023-10-01,Novosibirsk,2.6,None
+2023-10-02,Novosibirsk,1.4,None
+2023-10-03,Novosibirsk,1.9,None
+2023-10-04,Novosibirsk,2.4,Rain
+2023-10-05,Novosibirsk,4.1,None
+2023-10-06,Novosibirsk,3.8,Rain
+2023-10-07,Novosibirsk,1.3,None
+2023-10-08,Novosibirsk,4.6,None
+2023-10-09,Novosibirsk,-2.3,Rain
+2023-10-10,Novosibirsk,-2.7,Rain
+2023-10-11,Novosibirsk,4.6,Snow
+2023-10-12,Novosibirsk,-2.5,None
+2023-10-13,Novosibirsk,1.3,None
+2023-10-14,Novosibirsk,-2.1,None
+2023-10-15,Novosibirsk,1.8,None
+2023-10-16,Novosibirsk,3.1,Rain
+2023-10-17,Novosibirsk,4.7,Snow
+2023-10-18,Novosibirsk,1.1,Snow
+2023-10-19,Novosibirsk,5.7,None
+2023-10-20,Novosibirsk,-1.4,None
+2023-10-21,Novosibirsk,1.0,None
+2023-10-22,Novosibirsk,2.8,Rain
+2023-10-23,Novosibirsk,2.1,None
+2023-10-24,Novosibirsk,5.6,None
+2023-10-25,Novosibirsk,6.7,None
+2023-10-26,Novosibirsk,6.6,None
+2023-10-27,Novosibirsk,-0.7,None
+2023-10-28,Novosibirsk,4.1,Rain
+2023-10-29,Novosibirsk,1.3,Snow
+2023-10-30,Novosibirsk,2.9,None
+2023-10-31,Novosibirsk,5.5,None
+2023-11-01,Novosibirsk,-11.5,Snow
+2023-11-02,Novosibirsk,-6.0,Snow
+2023-11-03,Novosibirsk,-6.0,None
+2023-11-04,Novosibirsk,-6.8,None
+2023-11-05,Novosibirsk,-5.1,None
+2023-11-06,Novosibirsk,-9.5,None
+2023-11-07,Novosibirsk,-11.8,None
+2023-11-08,Novosibirsk,-6.0,Rain
+2023-11-09,Novosibirsk,-13.6,Rain
+2023-11-10,Novosibirsk,-8.7,None
+2023-11-11,Novosibirsk,-12.5,Rain
+2023-11-12,Novosibirsk,-8.0,None
+2023-11-13,Novosibirsk,-8.9,None
+2023-11-14,Novosibirsk,-10.3,None
+2023-11-15,Novosibirsk,-12.9,None
+2023-11-16,Novosibirsk,-5.9,None
+2023-11-17,Novosibirsk,-12.9,None
+2023-11-18,Novosibirsk,-6.3,Rain
+2023-11-19,Novosibirsk,-6.3,None
+2023-11-20,Novosibirsk,-7.5,None
+2023-11-21,Novosibirsk,-11.5,None
+2023-11-22,Novosibirsk,-9.9,Snow
+2023-11-23,Novosibirsk,-6.3,None
+2023-11-24,Novosibirsk,-13.3,None
+2023-11-25,Novosibirsk,-12.1,None
+2023-11-26,Novosibirsk,-6.0,Snow
+2023-11-27,Novosibirsk,-8.5,Rain
+2023-11-28,Novosibirsk,-9.7,None
+2023-11-29,Novosibirsk,-9.8,None
+2023-11-30,Novosibirsk,-7.6,None
+2023-12-01,Novosibirsk,-16.3,None
+2023-12-02,Novosibirsk,-15.6,Rain
+2023-12-03,Novosibirsk,-17.3,None
+2023-12-04,Novosibirsk,-15.2,Snow
+2023-12-05,Novosibirsk,-19.3,Rain
+2023-12-06,Novosibirsk,-10.1,None
+2023-12-07,Novosibirsk,-11.7,Rain
+2023-12-08,Novosibirsk,-16.2,Snow
+2023-12-09,Novosibirsk,-14.6,None
+2023-12-10,Novosibirsk,-15.3,None
+2023-12-11,Novosibirsk,-15.6,Snow
+2023-12-12,Novosibirsk,-20.0,None
+2023-12-13,Novosibirsk,-19.0,Snow
+2023-12-14,Novosibirsk,-18.0,Snow
+2023-12-15,Novosibirsk,-12.3,Rain
+2023-12-16,Novosibirsk,-18.1,Snow
+2023-12-17,Novosibirsk,-10.5,None
+2023-12-18,Novosibirsk,-15.6,Snow
+2023-12-19,Novosibirsk,-19.3,Snow
+2023-12-20,Novosibirsk,-12.7,None
+2023-12-21,Novosibirsk,-18.1,Rain
+2023-12-22,Novosibirsk,-10.3,None
+2023-12-23,Novosibirsk,-16.3,Snow
+2023-12-24,Novosibirsk,-18.3,Snow
+2023-12-25,Novosibirsk,-14.1,None
+2023-12-26,Novosibirsk,-13.4,None
+2023-12-27,Novosibirsk,-17.1,Snow
+2023-12-28,Novosibirsk,-10.3,Snow
+2023-12-29,Novosibirsk,-18.0,Snow
+2023-12-30,Novosibirsk,-13.2,None
+2023-12-31,Novosibirsk,-11.1,Snow
+2024-01-01,Novosibirsk,-21.3,Snow
+2024-01-02,Novosibirsk,-18.7,None
+2024-01-03,Novosibirsk,-17.4,Snow
+2024-01-04,Novosibirsk,-22.9,Snow
+2024-01-05,Novosibirsk,-22.8,Snow
+2024-01-06,Novosibirsk,-17.2,None
+2024-01-07,Novosibirsk,-20.5,None
+2024-01-08,Novosibirsk,-16.3,Snow
+2024-01-09,Novosibirsk,-20.7,None
+2024-01-10,Novosibirsk,-18.5,None
+2024-01-11,Novosibirsk,-23.2,Snow
+2024-01-12,Novosibirsk,-17.9,Snow
+2024-01-13,Novosibirsk,-17.9,None
+2024-01-14,Novosibirsk,-18.7,Snow
+2024-01-15,Novosibirsk,-20.2,Snow
+2024-01-16,Novosibirsk,-18.0,Snow
+2024-01-17,Novosibirsk,-22.9,Snow
+2024-01-18,Novosibirsk,-17.5,Snow
+2024-01-19,Novosibirsk,-15.4,None
+2024-01-20,Novosibirsk,-17.9,Snow
+2024-01-21,Novosibirsk,-22.8,None
+2024-01-22,Novosibirsk,-21.6,Snow
+2024-01-23,Novosibirsk,-16.8,Snow
+2024-01-24,Novosibirsk,-21.6,Snow
+2024-01-25,Novosibirsk,-17.4,Snow
+2024-01-26,Novosibirsk,-16.6,None
+2024-01-27,Novosibirsk,-15.1,Snow
+2024-01-28,Novosibirsk,-21.3,Rain
+2024-01-29,Novosibirsk,-18.6,Snow
+2024-01-30,Novosibirsk,-16.7,Rain
+2024-01-31,Novosibirsk,-16.1,Snow
+2024-02-01,Novosibirsk,-17.7,Snow
+2024-02-02,Novosibirsk,-12.5,None
+2024-02-03,Novosibirsk,-16.9,None
+2024-02-04,Novosibirsk,-13.5,Snow
+2024-02-05,Novosibirsk,-20.8,Snow
+2024-02-06,Novosibirsk,-16.9,Snow
+2024-02-07,Novosibirsk,-13.1,Snow
+2024-02-08,Novosibirsk,-13.5,None
+2024-02-09,Novosibirsk,-19.1,None
+2024-02-10,Novosibirsk,-16.1,Rain
+2024-02-11,Novosibirsk,-21.5,Snow
+2024-02-12,Novosibirsk,-15.7,Snow
+2024-02-13,Novosibirsk,-16.4,Snow
+2024-02-14,Novosibirsk,-13.9,None
+2024-02-15,Novosibirsk,-18.6,None
+2024-02-16,Novosibirsk,-21.1,Snow
+2024-02-17,Novosibirsk,-14.5,Snow
+2024-02-18,Novosibirsk,-21.3,None
+2024-02-19,Novosibirsk,-19.2,Snow
+2024-02-20,Novosibirsk,-17.5,Snow
+2024-02-21,Novosibirsk,-12.7,Snow
+2024-02-22,Novosibirsk,-18.1,None
+2024-02-23,Novosibirsk,-15.1,Snow
+2024-02-24,Novosibirsk,-13.8,None
+2024-02-25,Novosibirsk,-21.1,Snow
+2024-02-26,Novosibirsk,-15.9,Snow
+2024-02-27,Novosibirsk,-19.8,Snow
+2024-02-28,Novosibirsk,-16.9,None
+2024-02-29,Novosibirsk,-15.4,Snow
+2024-03-01,Novosibirsk,-7.9,None
+2024-03-02,Novosibirsk,-2.4,None
+2024-03-03,Novosibirsk,-14.9,None
+2024-03-04,Novosibirsk,-12.0,Rain
+2024-03-05,Novosibirsk,-2.1,None
+2024-03-06,Novosibirsk,-13.4,None
+2024-03-07,Novosibirsk,-5.9,None
+2024-03-08,Novosibirsk,-4.2,None
+2024-03-09,Novosibirsk,-10.1,None
+2024-03-10,Novosibirsk,-3.7,None
+2024-03-11,Novosibirsk,-2.5,None
+2024-03-12,Novosibirsk,-6.3,Rain
+2024-03-13,Novosibirsk,-2.0,None
+2024-03-14,Novosibirsk,-11.9,Rain
+2024-03-15,Novosibirsk,-8.5,None
+2024-03-16,Novosibirsk,-1.4,None
+2024-03-17,Novosibirsk,-14.6,None
+2024-03-18,Novosibirsk,-5.7,None
+2024-03-19,Novosibirsk,-10.3,None
+2024-03-20,Novosibirsk,-9.9,None
+2024-03-21,Novosibirsk,-14.1,Snow
+2024-03-22,Novosibirsk,-11.7,Snow
+2024-03-23,Novosibirsk,-12.4,Rain
+2024-03-24,Novosibirsk,-11.6,None
+2024-03-25,Novosibirsk,-1.9,Rain
+2024-03-26,Novosibirsk,-8.9,Rain
+2024-03-27,Novosibirsk,-6.6,Rain
+2024-03-28,Novosibirsk,-10.3,None
+2024-03-29,Novosibirsk,-7.7,None
+2024-03-30,Novosibirsk,-1.6,None
+2024-03-31,Novosibirsk,-12.8,None
+2024-04-01,Novosibirsk,4.9,None
+2024-04-02,Novosibirsk,0.9,Snow
+2024-04-03,Novosibirsk,-1.3,None
+2024-04-04,Novosibirsk,6.1,None
+2024-04-05,Novosibirsk,9.1,Rain
+2024-04-06,Novosibirsk,1.9,None
+2024-04-07,Novosibirsk,5.4,None
+2024-04-08,Novosibirsk,8.2,None
+2024-04-09,Novosibirsk,-0.5,None
+2024-04-10,Novosibirsk,-4.4,None
+2024-04-11,Novosibirsk,8.1,None
+2024-04-12,Novosibirsk,4.9,None
+2024-04-13,Novosibirsk,7.7,None
+2024-04-14,Novosibirsk,8.1,None
+2024-04-15,Novosibirsk,8.9,None
+2024-04-16,Novosibirsk,-1.1,None
+2024-04-17,Novosibirsk,3.0,None
+2024-04-18,Novosibirsk,3.9,None
+2024-04-19,Novosibirsk,-4.2,Snow
+2024-04-20,Novosibirsk,4.6,Rain
+2024-04-21,Novosibirsk,5.1,None
+2024-04-22,Novosibirsk,2.7,None
+2024-04-23,Novosibirsk,9.4,None
+2024-04-24,Novosibirsk,8.1,Snow
+2024-04-25,Novosibirsk,5.1,Snow
+2024-04-26,Novosibirsk,1.0,Snow
+2024-04-27,Novosibirsk,5.5,None
+2024-04-28,Novosibirsk,8.6,None
+2024-04-29,Novosibirsk,1.9,None
+2024-04-30,Novosibirsk,-2.8,None
+2024-05-01,Novosibirsk,15.8,None
+2024-05-02,Novosibirsk,8.5,None
+2024-05-03,Novosibirsk,10.4,Rain
+2024-05-04,Novosibirsk,15.4,Snow
+2024-05-05,Novosibirsk,12.9,None
+2024-05-06,Novosibirsk,17.0,Rain
+2024-05-07,Novosibirsk,12.5,None
+2024-05-08,Novosibirsk,17.0,Rain
+2024-05-09,Novosibirsk,9.8,Rain
+2024-05-10,Novosibirsk,5.5,None
+2024-05-11,Novosibirsk,10.3,None
+2024-05-12,Novosibirsk,5.3,None
+2024-05-13,Novosibirsk,13.5,Rain
+2024-05-14,Novosibirsk,17.8,None
+2024-05-15,Novosibirsk,12.8,Snow
+2024-05-16,Novosibirsk,7.2,Rain
+2024-05-17,Novosibirsk,14.8,None
+2024-05-18,Novosibirsk,16.2,Rain
+2024-05-19,Novosibirsk,5.4,None
+2024-05-20,Novosibirsk,5.6,None
+2024-05-21,Novosibirsk,11.6,None
+2024-05-22,Novosibirsk,8.5,Snow
+2024-05-23,Novosibirsk,9.8,None
+2024-05-24,Novosibirsk,8.9,None
+2024-05-25,Novosibirsk,10.3,None
+2024-05-26,Novosibirsk,6.7,Rain
+2024-05-27,Novosibirsk,17.9,None
+2024-05-28,Novosibirsk,10.0,None
+2024-05-29,Novosibirsk,14.3,None
+2024-05-30,Novosibirsk,16.8,None
+2024-05-31,Novosibirsk,10.9,None
+2024-06-01,Novosibirsk,21.4,Rain
+2024-06-02,Novosibirsk,14.0,Rain
+2024-06-03,Novosibirsk,18.4,Rain
+2024-06-04,Novosibirsk,21.9,None
+2024-06-05,Novosibirsk,19.2,None
+2024-06-06,Novosibirsk,11.2,Rain
+2024-06-07,Novosibirsk,13.5,None
+2024-06-08,Novosibirsk,12.5,Rain
+2024-06-09,Novosibirsk,16.8,Rain
+2024-06-10,Novosibirsk,16.3,Rain
+2024-06-11,Novosibirsk,19.0,Rain
+2024-06-12,Novosibirsk,17.6,None
+2024-06-13,Novosibirsk,20.0,Rain
+2024-06-14,Novosibirsk,20.2,Rain
+2024-06-15,Novosibirsk,13.9,None
+2024-06-16,Novosibirsk,11.9,None
+2024-06-17,Novosibirsk,18.3,Snow
+2024-06-18,Novosibirsk,21.3,None
+2024-06-19,Novosibirsk,10.2,Rain
+2024-06-20,Novosibirsk,14.2,Rain
+2024-06-21,Novosibirsk,10.3,Rain
+2024-06-22,Novosibirsk,15.0,Rain
+2024-06-23,Novosibirsk,21.3,None
+2024-06-24,Novosibirsk,18.1,Rain
+2024-06-25,Novosibirsk,20.0,Rain
+2024-06-26,Novosibirsk,16.4,Rain
+2024-06-27,Novosibirsk,15.8,None
+2024-06-28,Novosibirsk,18.6,Snow
+2024-06-29,Novosibirsk,21.3,None
+2024-06-30,Novosibirsk,21.7,Rain
+2024-07-01,Novosibirsk,22.2,Snow
+2024-07-02,Novosibirsk,20.8,None
+2024-07-03,Novosibirsk,15.9,Rain
+2024-07-04,Novosibirsk,21.4,Rain
+2024-07-05,Novosibirsk,17.1,Rain
+2024-07-06,Novosibirsk,17.7,Rain
+2024-07-07,Novosibirsk,19.9,Rain
+2024-07-08,Novosibirsk,18.9,None
+2024-07-09,Novosibirsk,24.0,Snow
+2024-07-10,Novosibirsk,17.3,Rain
+2024-07-11,Novosibirsk,16.4,Rain
+2024-07-12,Novosibirsk,15.4,Rain
+2024-07-13,Novosibirsk,19.3,Rain
+2024-07-14,Novosibirsk,19.4,Rain
+2024-07-15,Novosibirsk,22.6,Rain
+2024-07-16,Novosibirsk,19.2,Rain
+2024-07-17,Novosibirsk,17.7,None
+2024-07-18,Novosibirsk,21.1,None
+2024-07-19,Novosibirsk,16.9,None
+2024-07-20,Novosibirsk,23.8,Rain
+2024-07-21,Novosibirsk,17.3,Rain
+2024-07-22,Novosibirsk,19.3,None
+2024-07-23,Novosibirsk,19.7,Rain
+2024-07-24,Novosibirsk,23.5,None
+2024-07-25,Novosibirsk,24.0,Rain
+2024-07-26,Novosibirsk,24.5,Rain
+2024-07-27,Novosibirsk,24.0,Rain
+2024-07-28,Novosibirsk,18.0,Rain
+2024-07-29,Novosibirsk,22.3,Rain
+2024-07-30,Novosibirsk,17.0,Rain
+2024-07-31,Novosibirsk,16.5,None
+2024-08-01,Novosibirsk,11.1,Rain
+2024-08-02,Novosibirsk,12.8,None
+2024-08-03,Novosibirsk,17.6,Rain
+2024-08-04,Novosibirsk,19.7,None
+2024-08-05,Novosibirsk,12.0,Rain
+2024-08-06,Novosibirsk,14.4,Rain
+2024-08-07,Novosibirsk,13.2,None
+2024-08-08,Novosibirsk,10.4,Rain
+2024-08-09,Novosibirsk,11.3,Rain
+2024-08-10,Novosibirsk,14.3,None
+2024-08-11,Novosibirsk,11.2,Rain
+2024-08-12,Novosibirsk,19.5,None
+2024-08-13,Novosibirsk,10.7,None
+2024-08-14,Novosibirsk,14.6,Snow
+2024-08-15,Novosibirsk,17.8,Rain
